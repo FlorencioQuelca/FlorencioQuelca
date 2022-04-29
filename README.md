@@ -5,12 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/florencio-quelca-mamani-8741ba84/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:florens.lonwe@gmail.com)
 
-Welcome to my Github page! I am Florencio and I am Engineering System at the Technical university of oruro in Bolivia!  
+Welcome to my Github page! I am Florencio and I am Engineering System, I am working in Bolivia!  
 
  ### My  Tools
  - Html,CSS,Javasscritp,C++
-
-### 🔭 I’m currently working on
+ - 
 
 ### Deployment  app
 -  Linux
@@ -19,7 +18,10 @@ Welcome to my Github page! I am Florencio and I am Engineering System at the Tec
 -  DigitalOcean
  
  ### 🌱 I’m currently learning
- - 
+ -  Pyton
+ -  Ruby
+ -  Go
+ -  Dark
 <!--
 **FlorencioQuelca/FlorencioQuelca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
