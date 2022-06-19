@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Florencio and I am Engineering System, I am working in Bolivia!  
  ### My  Tools
- - Html,CSS,Javascritp,C++,ObjectPascal
+ - Html,CSS,JavaScritp,C++,ObjectPascal
 ### Deployment  App
 -  Linux (Ubuntu,Devian)
 -  Nginx
