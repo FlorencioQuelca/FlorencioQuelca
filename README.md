@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Florencio and I am Engineering System, I am working in Bolivia!  
  ### My  Tools
- - Html,CSS,JavaScritp and node
+ - Html,Css,JavaScript, Node,React,Redux,Express. 
 ### Deployment  App
 -  Linux (Ubuntu,Devian)
 -  Nginx
