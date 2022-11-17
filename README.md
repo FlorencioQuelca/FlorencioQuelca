@@ -9,7 +9,7 @@ Welcome to my Github page! I am Florencio and I am Engineering System, I am work
  ### My  Tools
  - Html,Css,JavaScript, Node,React,Redux,Express. 
 ### Deployment  App
--  Linux (Ubuntu,Devian)
+-  Linux (Ubuntu,Debian)
 -  Nginx
 -  Docker
 -  DigitalOcean
