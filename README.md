@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Florencio and I am Engineering System, I am working in Bolivia!  
  ### My  Tools
- - HTML | CSS | Node | React js | Redux | Postgress | Mysql | Javascript | C++, Express
+ - HTML | CSS | Node | React js | Redux | Postgress | Mysql | Javascript | C++, Express | Typescript | Next
 ### Deployment  App
 -  Linux (Ubuntu,Debian)
 -  Nginx
